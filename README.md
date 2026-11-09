@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data Scientist passionate about Data Analytics, Machine Learning, and AI Automation. Skilled in Python, SQL, Pandas, Excel, and Power BI. Exploring n8n to build AI-powered automation workflows and intelligent agents. Focused on developing practical projects and solving real-world problems through data and technology.
+Aspiring Data Scientist passionate about Data Analytics, Machine Learning, and AI Automation. Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel, and Power BI. Exploring Artificial Intelligence (AI), n8n Automation, and AI Agents to build intelligent workflows. Focused on developing real-world projects, analyzing data, and creating AI-powered solutions through technology.
 
 
 ## 🌐 Socials:
